@@ -1,2 +1,8 @@
 # DJISDK4U
-DJI社よりリリースされているWindowsSDKを、UE4で使用するためのプラグインです。
+====
+
+## Overview
+「DJISDK4U」は、DJI WindowsSDKをUnrealEngine4上で利用できるようにするための、ランタイムプラグインです。
+
+## Description
+工事中です。
